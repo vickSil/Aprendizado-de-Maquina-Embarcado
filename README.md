@@ -28,6 +28,7 @@ O modelo classifica cada sequência de acessos em três categorias:
 | 🔴 BLOQUEADO | Possível ataque, clonagem ou tentativa excessiva |
 
 ---
+<img width="1268" height="700" alt="image" src="https://github.com/user-attachments/assets/6c47ad89-ee73-4697-b8ef-c220686ac400" />
 
 # 🧠 Arquitetura da Rede Neural
 
